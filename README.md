@@ -17,3 +17,4 @@ This repo tracks projects developed while experimenting with various self-taught
 - [Pong, everyone's go to Arcade Game using Turtle in Python](./14-Pong)
 - [Turtle Crossing Game using Turtle in Python, because I don't like frogs!](./15-Turtle-Crossing)
 - [US-States-Game using Pandas and Turtle in Python, courtesy F.R.I.E.N.D.S](./16-US-States-Game)
+- [Todo Manager CLI Tool](./17-Todo-Manager-CLI-Tool)
