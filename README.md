@@ -1,5 +1,5 @@
 # Python-Projects
-This repo tracks projects developed while experimenting with various self-taught tools in Python
+This code repository tracks projects developed while experimenting with various self-taught tools in Python
 
 - [Smart & Interactive Dictionary using Python](./01-Dictionary)
 - [Visualization of World Volcano & Population Densities on a Map using Python and Folium](./02-Volcano-Population-Web-Map)
